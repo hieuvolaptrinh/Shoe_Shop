@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QuanLyShopGiay">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/QuanLyShopGiay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

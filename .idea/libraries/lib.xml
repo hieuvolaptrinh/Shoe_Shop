@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-examples-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-ooxml-full-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/jakarta.activation-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-ooxml-lite-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-scratchpad-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-excelant-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/mssql-jdbc-12.4.2.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-javadoc-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/poi-ooxml-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/curvesapi-1.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/jakarta.xml.bind-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/log4j-api-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/log4j-core-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/xmlbeans-5.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyShopGiay/dist/lib/AbsoluteLayout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
